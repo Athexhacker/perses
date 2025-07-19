@@ -1,0 +1,2 @@
+[2025-07-13 21:40:08.816412] Generating payload with LHOST=37.111.179.169, LPORT=4444
+[2025-07-13 21:40:11.006071] Payload & QR code generated.
