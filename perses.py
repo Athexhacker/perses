@@ -102,7 +102,7 @@ def screen_capture():
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Screen Capture Test - MrCrazy</h1>
+<h1>Screen Capture - ATHEX</h1>
 <button onclick="start()">Start Screen Capture</button><br><br>
 <video autoplay></video>
 <script>
